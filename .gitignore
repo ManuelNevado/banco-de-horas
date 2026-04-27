@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Banco de Horas — datos personales y estado interno
+data/
+.claude/
